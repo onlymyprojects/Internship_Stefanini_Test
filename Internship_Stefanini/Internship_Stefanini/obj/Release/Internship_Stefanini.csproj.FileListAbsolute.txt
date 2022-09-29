@@ -1,0 +1,7 @@
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\bin\Release\Internship_Stefanini.exe.config
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\bin\Release\Internship_Stefanini.exe
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\bin\Release\Internship_Stefanini.pdb
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\obj\Release\Internship_Stefanini.csproj.CoreCompileInputs.cache
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\obj\Release\Internship_Stefanini.exe
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\obj\Release\Internship_Stefanini.pdb
+D:\Проекты\Internship_Stefanini\Internship_Stefanini\obj\Release\Internship_Stefanini.csprojAssemblyReference.cache
